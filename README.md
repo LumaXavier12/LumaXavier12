@@ -17,7 +17,7 @@ Me tornando cada vez melhor com o métado DevClub :rocket:
 
 ### Encontre-me:
 <a href="https://www.instagram.com/lumaxavier12"><img height="33px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/e6/49/6be649ff-ebc7-12d6-79e6-1d00d0447d2b/Prod-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" alt="logo-instagram"/></a>
-<a href="www.linkedin.com/in/luma-xavier12"><img height="45px" src="https://logospng.org/download/linkedin/logo-linkedin-1024.png" alt="logo-linkedin"></a>
+<a href="www.linkedin.com/in/luma-xavier12"><img height="45px" src="https://logospng.org/download/linkedin/logo-linkedin-1024.png" alt="logo-linkedin"/></a>
 
 [![Luma stats](https://github-readme-stats.vercel.app/api?username=LumaXavier12)](https://github.com/anuraghazra/github-readme-stats)
 
