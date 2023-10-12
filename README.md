@@ -4,11 +4,11 @@ Eu sou a Luma, sou uma programadora FullStack iniciante. Atualmente estou aprend
 <br>
 - <img height="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQI4cmxzQkYiA4OBsXZwvX1pe-6-abjnZFlalQ6hEYDRxZIAZYvKCMg2qKhwT3vB7H1I&usqp=CAU" alt="logo-html" />
 - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
+- <img height="32px" src="https://w7.pngwing.com/pngs/172/554/png-transparent-javascript-html-computer-software-web-browser-watermark-angle-text-rectangle.png" alt="logo-JSandReact" />
 <br>
 Em breve, estarei iniciando novos aprendizados em:
 <br>
 <br>
-<img height="32px" src="https://w7.pngwing.com/pngs/172/554/png-transparent-javascript-html-computer-software-web-browser-watermark-angle-text-rectangle.png" alt="logo-JSandReact" />
 <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="logo-React" />
 Me tornando cada vez melhor com o métado DevClub :rocket:
 <br>
