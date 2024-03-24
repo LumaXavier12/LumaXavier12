@@ -8,7 +8,7 @@ _ Estudando Node.Js
 _ Explorando o uso do Docker
 
 ### Contato
-Se quiser entrar em contato comigo, sinta-se à vontade para me enviar um <a href= "https://mail.google.com/mail/u/1/">E-Mail</a> ou me encontrar no <a href="www.linkedin.com/in/luma-xavier12">LinkedIn.</a>
+Se quiser entrar em contato comigo, sinta-se à vontade para me enviar um E-Mail: lumaxavier133@gmail.com ou me encontrar no <a href="www.linkedin.com/in/luma-xavier12">LinkedIn</a>
 <br>
 <br>
 [![Luma stats](https://github-readme-stats.vercel.app/api?username=LumaXavier12&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
