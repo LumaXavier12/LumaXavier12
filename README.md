@@ -1,24 +1,18 @@
-### Olá, pessoal!!
+### Olá!!Eu sou Luma, uma FullStack  Developer. 👩🏻‍💻
 
-Eu sou a Luma, sou uma programadora FullStack iniciante. Atualmente estou aprendendo e desenvolvendo projetos com:
-<br>
-- <img height="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQI4cmxzQkYiA4OBsXZwvX1pe-6-abjnZFlalQ6hEYDRxZIAZYvKCMg2qKhwT3vB7H1I&usqp=CAU" alt="logo-html" />
-- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
-- <img height="32px" src="https://w7.pngwing.com/pngs/172/554/png-transparent-javascript-html-computer-software-web-browser-watermark-angle-text-rectangle.png" alt="logo-JSandReact" />
-<br>
-Em breve, estarei iniciando novos aprendizados em:
-<br>
-<br>
-<img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="logo-React" />
-Me tornando cada vez melhor com o métado DevClub :rocket:
-<br>
-<br>
-<a href="https://hotmart.com/pt-br/marketplace/produtos/devclub/U67944074A"> <img height="35px" src="https://rodolfomori.com.br/wp-content/uploads/elementor/thumbs/LOGO_1-pl6s0w83bob17fyv2myc9hccfjkrd6md916y3lfbcg.png" alt="logo-devclub"/></a>
+### Sobre Mim
+Atualmente estou embarcando na jornada de estudos no Back End e ao mesmo tempo buscando aperfeiçoar todo o aprendizado diquirido no Front End, me mantendo sempre atualizada. Sou apaixonada por tecnologia e estou comprometida em aprender e crescer nesta área fascinante. 
 
-### Encontre-me:
-<a href="https://www.instagram.com/lumaxavier12"><img height="33px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/e6/49/6be649ff-ebc7-12d6-79e6-1d00d0447d2b/Prod-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" alt="logo-instagram"/></a>
-<a href="www.linkedin.com/in/luma-xavier12"><img height="45px" src="https://logospng.org/download/linkedin/logo-linkedin-1024.png" alt="logo-linkedin"/></a>
+_ Estudando Node.Js
+<br>
+_ Explorando o uso do Docker
 
-[![Luma stats](https://github-readme-stats.vercel.app/api?username=LumaXavier12)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LumaXavier12)](https://github.com/anuraghazra/github-readme-stats)
+### Contato
+Se quiser entrar em contato comigo, sinta-se à vontade para me enviar um <a href= "https://mail.google.com/mail/u/1/">E-Mail</a> ou me encontrar no <a href="www.linkedin.com/in/luma-xavier12">LinkedIn.</a>
+<br>
+<br>
+[![Luma stats](https://github-readme-stats.vercel.app/api?username=LumaXavier12&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LumaXavier12&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="45px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="44px" gap="20px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line.svg" height="45px"/>                     
